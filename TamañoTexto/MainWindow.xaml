@@ -44,7 +44,7 @@
                 </TransformGroup>
             </RadioButton.RenderTransform>
         </RadioButton>
-        <RadioButton x:Name="MedianoRadioButton"
+        <RadioButton x:Name="medianoRadioButton"
                      Content="Mediano"
                      HorizontalAlignment="Left"
                      Margin="404,242,0,0"
